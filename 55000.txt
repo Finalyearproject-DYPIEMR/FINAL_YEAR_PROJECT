@@ -1,3 +1,4 @@
-55000
+
 df = train_data 
+
 data_train = df + airline + source + destination
