@@ -1,4 +1,4 @@
-# Flight_price_prediction_DS
+# Airlines: We seek Profit and Trust
 
 Contributors:
 1)Shivam Borse
