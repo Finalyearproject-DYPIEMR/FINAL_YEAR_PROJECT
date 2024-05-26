@@ -7,8 +7,5 @@ data_train = df + airline + source + destination
 
 
 
-
-
-
-
-
+Multiple carriers,15/06/2019,Delhi,Cochin,DEL → BOM → COK,04:55,19:15,14h 20m,1 stop,No info 
+abcxysbjdbhsbhfvjasbdnvgsasfdhvjvbsvxqhjwvhsabmskhfqhjQVDJBh
