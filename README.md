@@ -1,5 +1,6 @@
 # Airlines: We seek Profit and Trust
 
+
 # Contributors:
 1)Shivam Borse
 2)Shraddha Lokhande
@@ -11,6 +12,7 @@ Ms. Arti Singh
 
 # Motivation:
 To develope real time flight scheduling algorithm
+
 
 
 
